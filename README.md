@@ -7,7 +7,8 @@ company: Founder @ Sahaya Technologies Pvt. Ltd.
 location: 🌍 Vadodara → Noida, India
 
 🚀 About Me
-I'm a developer and entrepreneur passionate about AI, SaaS, and automation. I specialize in building AI-powered platforms, automation tools, and scalable web applications.
+I'm a developer and entrepreneur passionate about AI, SaaS, and automation.
+I specialize in building AI-powered platforms, automation tools, and scalable web applications.
 
 💡 Currently working on:
 Sahaya AI – A complete AI suite for businesses
@@ -18,7 +19,7 @@ Inceptus AI – AI-powered business idea analysis
 
 🛠 Tech Stack
 {
-  "languages": ["Python", "JavaScript", "C++"],
+  "languages": ["Python", "JavaScript", "java"],
   "frameworks": ["React.js", "Next.js", "Flask", "Node.js"],
   "databases": ["Firebase", "MongoDB", "MySQL"],
   "tools": ["AWS", "Docker", "Git", "OpenAI API"]
