@@ -4,7 +4,7 @@
 name: Shreyansh J. Patni
 title: Tech Entrepreneur | AI Enthusiast | SaaS Developer
 company: Founder @ Sahaya Technologies Pvt. Ltd.
-location: 🌍 Vadodara → Noida, India
+location: 🌍 Vadodara → Gujarat, India
 
 🚀 About Me
 I'm a developer and entrepreneur passionate about AI, SaaS, and automation.
